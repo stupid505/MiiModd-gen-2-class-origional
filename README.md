@@ -1,4 +1,4 @@
-Join Our Discord!!!
+ Join Our Discord!!!
 website: https://sites.google.com/view/mii-modd/home
 
 # MiiModd-gen-2
